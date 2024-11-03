@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "amir",
+        "lastName": "doustdar",
+        "country": "iran\\",
+        "color": "abi",
+        "Food": "pizza",
+        "things": "football"
+    },
+    {
+        "Name": "mehdi",
+        "lastName": "afzali",
+        "country": "usa",
+        "color": "black",
+        "Food": "burger",
+        "things": "cup"
+    }
+]
